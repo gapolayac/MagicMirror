@@ -1,32 +1,32 @@
 {
         "anytime" : [
-                "Más vale tarde que nunca",
-                "Je ziet er geweldig uit vandaag!",
-                "Wat een geweldige dag vandaag!",
-                "Jij maakt vandaag het verschil!",
-                "Een prachtige lach, voor een prachtige dag",
-                "Kijk je nog steeds naar de spiegel?",
-                "Hallo, ik ben El, Spieg El"
+                "Todo dentro de ti, en tu forma de pensar.",
+                "El poder no corrompe, revela!.",
+                "Quejarse siempre, es no aceptar lo que es.",
+                "La dificultad es lo que despierta al genio.",
+                "La habilidad suma, la actitud multiplica.",
+                "Suelta y confía",
+                "No te detengas hasta estar orgulloso."
 
         ],
         "morning" : [
-                "Wat zit je haar weer goed vandaag!",
-                "Begin de dag met een lach!",
-                "Het zal weer een prachtige dag worden!",
-                "Is het niet een leuke dag?",
-                "Bereid je voor op een leuke dag!"
+                "La disciplina es el puente entre metas y logros." ,
+                "La motivación es lo que te hace empezar. El hábito es lo que te mantiene en marcha." ,
+                "Haz de cada día una obra maestra.",
+                "La suerte favorece a los valientes."
+                 
         ],
         "afternoon" : [
-                "Nog even je werk afmaken...",
-                "Middag, niet de avond, niet de ochtend",
-                "Is dit niet een leuke dag?",
-                "Bijna etenstijd!"
+                "El éxito es la suma de pequeñas victorias repetidas día tras día.",
+                "Sé el cambio que deseas ver en el mundo.",
+                "No te rindas, las cosas buenas llevan tiempo.",
+                "Siempre es temprano para rendirse." 
         ],
         "evening" : [
-                "En nu op naar de vergadering.",
-                "Eet smakelijk!",
-                "Even rust, heerlijk....",
-                "Jij hebt het verschil gemaakt!",
-                "Was het eten lekker?"
+                "Todo lo que siempre has querido está al otro lado del miedo.", 
+                "Deja que tus sueños te guíen.",
+                "Cada logro comienza con la decisión de intentarlo.",
+                "No importa lo que pase, sigue adelante."
+                
         ]
 }
